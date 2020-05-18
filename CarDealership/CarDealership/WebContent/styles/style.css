@@ -1,0 +1,70 @@
+@charset "UTF-8";
+
+nav a {
+	color: black;
+
+}
+
+nav a:hover {
+	color: gray;
+}
+
+.jumbotron {
+	color: #444;
+	margin-bottom: 0;
+}
+
+.container {
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+
+.required {
+	color: red;
+}
+
+.infoHeader {
+	color: #666;
+	width: 120px;
+}
+
+.aquaHover:hover {
+	background: linear-gradient(90deg, black, gray);
+	color: #555;
+	border-color: gray;
+}
+
+.error {
+	color: red;
+}
+
+.hidden {
+	display: none;
+}
+
+#carInfo {
+	margin-top: 40px;
+}
+
+#buyButton:hover {
+	color: #555;
+}
+
+#buyButton {
+	color: aqua;
+}
+
+#adminAddForm label, #checkoutForm label {
+	background-color: #666;
+	width: 180px;
+	color: white;
+	text-align: right;
+	padding: 3px 7px 3px 0; 
+}
+
+footer  {
+	
+	padding-left: 20px;
+	color: black;
+	
+}
